@@ -1,0 +1,20 @@
+{
+    "name": "didweb/ratio_runtime",
+    "description": "ratio codice runtime",
+    "keywords": ["codice", "ratio time", "tool"],
+    "homepage": "https://github.com/Didweb/paginator",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Eduardo Pinuaga Linares",
+            "email": "info@did-web.com",
+            "homepage": "http://www.did-web.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "repository": {
+        "url": "https://packagist.org/api/update-package?username=Didweb&apiToken=7b71df78f710e47fecd7a31b1b699f93f7d330fd"
+    }
+}
