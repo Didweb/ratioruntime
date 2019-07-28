@@ -1,5 +1,5 @@
 <?php
-namespace ratioruntime\classes;
+namespace didweb\ratioruntime;
 
 /**
 *  @author    Eduardo Pinuaga Linares Did-web.com <info@did-web.com>
