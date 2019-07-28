@@ -1,4 +1,6 @@
 <?php
+namespace ratioruntime\classes;
+
 /**
 *  @author    Eduardo Pinuaga Linares Did-web.com <info@did-web.com>
 *  @copyright did-web.com 2018
@@ -9,7 +11,6 @@
 *
 **/
 
-namespace ratioruntime\classes;
 
 class RatioRuntime {
 
