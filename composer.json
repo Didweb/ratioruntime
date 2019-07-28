@@ -1,8 +1,8 @@
 {
-    "name": "didweb/ratio_runtime",
+    "name": "didweb/ratioruntime",
     "description": "ratio codice runtime",
     "keywords": ["codice", "ratio time", "tool"],
-    "homepage": "https://github.com/Didweb/paginator",
+    "homepage": "https://github.com/Didweb/ratioruntime",
     "type": "library",
     "license": "GPL-3.0-or-later",
     "authors": [
