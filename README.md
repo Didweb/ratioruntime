@@ -5,6 +5,9 @@ Calcula el tiempo de ejecución en punto determinado a otro de la ejecución del
 ## Funcionamineto
 
 ```
+use didweb\ratioruntime;
+
+
 $calTime = new RatioRuntime();
 
 // Ejeccucción del código a calcular.
@@ -54,6 +57,8 @@ Berechnen Sie die Ausführungszeit zu einem bestimmten Zeitpunkt zu einem andere
 ## Bedienung
 
 ```
+use didweb\ratioruntime;
+
 $calTime = new RatioRuntime();
 
 // Ausführung des zu berechnenden Codes.
@@ -105,6 +110,9 @@ Calculate the execution time at a certain point to another of the code execution
 ## Operation
 
 ```
+use didweb\ratioruntime;
+
+
 $calTime = new RatioRuntime();
 
 // Execution of the code to calculate.
